@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "make-fetch-happen": "^9.1.0",
+    "yargs": "^17.2.1"
+  }
+}
